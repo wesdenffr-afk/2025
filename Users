@@ -1,16 +1,16 @@
 [
   { "user": "Freitas", "pass": "8785" },
-  { "user": "admin", "pass": "admin8785" }
-  { "user": "ita", "pass": "ita17" }
-  { "user": "nanda", "pass": "Pink200@" }
-  { "user": "Misael", "pass": "364090" }
-  { "user": "Jorge850", "pass": "089805jj" }
-  { "user": "test", "pass": "12321" }
-  { "user": "Magali", "pass": "ninof10" }
-  { "user": "Francisco", "pass": "F233007" }
-  { "user": "Denis", "pass": "996817778" }
-  { "user": "lhypp", "pass": "1903gD100" }
-  { "user": "Michele", "pass": "1234567M#" }
-  { "user": "Deyvidiane25", "pass": "@Recife2019" }
+  { "user": "admin", "pass": "admin8785" },
+  { "user": "ita", "pass": "ita17" },
+  { "user": "nanda", "pass": "Pink200@" },
+  { "user": "Misael", "pass": "364090" },
+  { "user": "Jorge850", "pass": "089805jj" },
+  { "user": "test", "pass": "12321" },
+  { "user": "Magali", "pass": "ninof10" },
+  { "user": "Francisco", "pass": "F233007" },
+  { "user": "Denis", "pass": "996817778" },
+  { "user": "lhypp", "pass": "1903gD100" },
+  { "user": "Michele", "pass": "1234567M#" },
+  { "user": "Deyvidiane25", "pass": "@Recife2019" },
   { "user": "Hong2000", "pass": "86552123" }
 ]
